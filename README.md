@@ -3,7 +3,7 @@
 # Hi, I'm Rodrigo 🧑🏻‍💻
 <samp>
   Hello there! I'm <b><a target="_blank" href="https://rorodev.cl">roroDev</a></b>.
-  I'm a Computer Engineering Undergraduate Student from Chile.<br>
+  I'm a Computer Engineering graduate from Chile.<br>
 </samp>
 <br>
 
