@@ -41,7 +41,7 @@
 ## :inbox_tray:  Contact me!
 <!--- snake -->
 <div align="center">
-  <a href="#" target="_blank"> <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" /></a>
+  <a target="_blank"> <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
 <br>
 <div align="center">
