@@ -23,10 +23,10 @@
             <img src="https://skillicons.dev/icons?i=astro,bash,css,tailwind,cs&theme=light&s=32" alt="Skills">
           </td>
           <td>
-            <img src="https://skillicons.dev/icons?i=postman,figma,firebase,debian,npm&theme=light&s=32" alt="Tools & IDEs">
+            <img src="https://skillicons.dev/icons?i=postman,figma,firebase,linux,npm&theme=light&s=32" alt="Tools & IDEs">
           </td><tr>
           <td>
-            <img src="https://skillicons.dev/icons?i=dotnet,java,js,linux,wordpress&theme=light&s=32" alt="Skills">
+            <img src="https://skillicons.dev/icons?i=dotnet,java,js,py,wordpress&theme=light&s=32" alt="Skills">
           </td>
           <td>
             <img src="https://skillicons.dev/icons?i=androidstudio,mongodb,git,windows,vscode&theme=light&s=32" alt="Tools & IDEs">
